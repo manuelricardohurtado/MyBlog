@@ -1,4 +1,4 @@
-# Mi Bog
+# Mi Blog
 
 Una maquetación de un Blog personal, con noticias y descripciones usando **HTML5/CSS3** puro, es genial para proyectos personales.
 
